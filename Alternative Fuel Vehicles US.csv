@@ -1,4 +1,4 @@
-Category, Model, Model_Year, Manufacturer, Fuel, All_Electric_Range, PHEV_Total_Range, Alternative_Fuel_Economy_City, Alternative_Fuel_Economy_Highway, Alternative_Fuel_Economy_Combined, Conventional_Fuel_Economy_City, Conventional_Fuel_Economy_Highway, Conventional_Fuel_Economy_Combined, Transmission_Type, Transmission_Make, Engine_Type, Engine_Size, Engine_Cylinder_Count, Number_of_Passengers, Heavy_Duty_Power_System, Notes, Drivetrain
+category, model, model_year, manufacturer, fuel, all_electric_range, phev_total_range, alternative_fuel_economy_city, alternative_fuel_economy_highway, alternative_fuel_economy_combined, conventional_fuel_economy_city, conventional_fuel_economy_highway, conventional_fuel_economy_combined, transmission_type, transmission_make, engine_type, engine_size, engine_cylinder_count, number_of_passengers, heavy_duty_power_system, notes, drivetrain
 Sedan/Wagon,NSX,2022,Acura,Hybrid Electric,,,,,,21.0,22.0,21.0,Auto,,SI,3.5L,6,,,"",AWD
 Sedan/Wagon,A3 ,2022,Audi,Hybrid Electric,,,,,,29.0,38.0,32.0,Auto,,SI,2.0L,4,,,"",FWD
 Sedan/Wagon,A3 quattro,2022,Audi,Hybrid Electric,,,,,,28.0,36.0,31.0,Auto,,SI,2.0L,4,,,"",AWD
